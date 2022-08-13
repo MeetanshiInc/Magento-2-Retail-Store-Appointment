@@ -12,7 +12,7 @@ The key benefit is by integrating with Google Calendar to remind the customer ab
 
 Hence, the Magento 2 Retail Store Appointment extension is a must-have extension in this Covid-19 and post Covid-19 situation.
 
-## Benefits of  Magento 2 Retail Store Appointment extension:
+## Benefits of Magento 2 Retail Store Appointment extension:
 
 * Allows the customers to schedule an online appointment for visiting the retail store in the Magento 2 store.
 * Facilitates the admin to set the opening and closing time of the retail store to schedule appointments during that time duration.
